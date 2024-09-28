@@ -16,9 +16,9 @@ views:
     cards:
       - type: custom:config-template-card
         entities:
-          - light.mbulb3_cloud_217376
-          - light.dengdai
-          - light.mbulb3_cloud_216068
+          - light.
+          - light.
+          - light.
         card:
           type: picture-elements
           image: /local/UI/关灯背景.png
